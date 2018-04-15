@@ -1,0 +1,17 @@
+{
+  "name": "kuaishou-crawler",
+  "version": "1.0.0",
+  "description": "快手视频爬虫",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": "https://github.com/gstok/kuaishou-crawler",
+  "author": "gstok <3081716662@qq.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
